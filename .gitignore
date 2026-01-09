@@ -7,7 +7,7 @@ data.tar.gz
 
 # wandb folder
 wandb/
-models/
+
 
 .DS_Store
 .idea/
